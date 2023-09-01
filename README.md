@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Luca
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP
+- 👶🏻 Still learning 
