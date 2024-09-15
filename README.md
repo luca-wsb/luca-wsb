@@ -1,5 +1,5 @@
 **`👋 Hello World 🌍`**
-### 📷 Luca (Developer/Photographer/Filmmaker)
+### 📷 Luca (Developer/Photographer)
 
 # 
 <p align="center">
