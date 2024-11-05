@@ -1,34 +1,36 @@
-**`👋 Hello World 🌍`**
-### 📷 Luca (Developer/Photographer)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-# 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4000&pause=500&color=F6F72F&vCenter=true&random=false&width=435&lines=Junior+developer;don't+know+what+i'm+doing" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=35+Code&duration=4000&pause=160&color=FAD80F&center=true&vCenter=true&width=500&height=70&lines=Junior+Dev;Hello+World+👋" alt="Typing SVG" />
+</h1>
 
-#
+<h3 align="center">Junior Developer from Germany 🇩🇪</h3>
 
-### 🛠️ Tools & Languages
+<br/>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
-<br />
+<div align="center">
 
-#
+ 📎 I’m currently working on **a React Blog**
+ 
+ 💡 I’m currently learning **React, Typescript, Tailwind and Git**
 
-<details>
-<summary><h2>📊 Stats and Activity</h2></summary>
+ </div>
 
-  <h3>🔥 Streak Stats</h3>
+ <hr/>
+ 
+<h2 align="center">🧰 Frameworks, Tools and Languages 🧰</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts,php,python" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,npm,firebase,mysql" /><br>
+</div>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luca-wsb&theme=onedark&border_radius=5" alt="GitHub Streak" /></a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-</details>
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img src="https://streak-stats.demolab.com?user=luca-wsb&theme=whatsapp-dark2&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
