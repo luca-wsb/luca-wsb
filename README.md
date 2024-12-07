@@ -1,16 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=35+Code&duration=4000&pause=160&color=FAD80F&center=true&vCenter=true&width=500&height=70&lines=Junior+Dev;Hello+World+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=35+Code&duration=4000&pause=160&color=FAD80F&center=true&vCenter=true&width=500&height=70&lines=Hello+World+👋;I+use+neovim" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Junior Developer from Germany 🇩🇪</h3>
+<h3 align="center">Developer from Germany 🇩🇪</h3>
 
 <br/>
 
 <div align="center">
-
- 📎 I’m currently working on **a React Blog**
  
- 💡 I’m currently learning **React, Typescript, Tailwind and Git**
+ 💡 I’m currently learning **C , Neovim and Git**
 
  </div>
 
@@ -19,8 +17,8 @@
 <h2 align="center">🧰 Frameworks, Tools and Languages 🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,js,ts,php,python" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,npm,firebase,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,neovim,react,vite,tailwind,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=git,npm,firebase,mysql" /><br>
 </div>
 
 <br/>
